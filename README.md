@@ -48,8 +48,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y4nnLS&bg_color=0d1117&color=4e9e3f&line=86cb75&point=1a4a12&area=true&hide_border=true">
 </div>
 
-![](https://github.com/Y4nnLS/Y4nnLS/blob/output/github-contribution-grid-snake.svg)
-
+<div align="center">
+  <img src="./assets/img/snake.svg">
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4e9e3f&width=300&section=footer">
