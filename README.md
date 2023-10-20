@@ -16,6 +16,8 @@
 
 ###
 
+<hr>
+
 <div align="center">
   <p>Linguagens:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,11 +28,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />    
 </div>
 
 ###
+<hr>
 
 <div align="center">
   <p>Contato:</p>
@@ -39,29 +41,11 @@
   <a href="mailto:yann_lucas04@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white " height="35" alt="Outlook logo"></a>
   
 </div>
-
-###
+<hr>
 
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Y4nnLS&bg_color=0d1117&color=4e9e3f&line=86cb75&point=1a4a12&area=true&hide_border=true">
-</div>
-
-<div align="center">
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Y4nnLS/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Y4nnLS/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Y4nnLS/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 </div>
 
 <div align="center">
