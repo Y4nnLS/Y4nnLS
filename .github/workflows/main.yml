@@ -33,6 +33,6 @@ jobs:
         with:
           commit_message: "[Grid snake] Update action output"
           file_pattern: 'dist/*.svg'
-          commit_user_name: hoangtien2k3qx1
-          commit_user_email: hoangtien2k3qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: Hoàng Anh Tiến <hoangtien2k3qx1@gmail.com> # defaults to author of the commit that triggered the run
+          commit_user_name: Y4nnLS
+          commit_user_email: yann_lucas04@hotmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: teste <yann_lucas04@hotmail.com> # defaults to author of the commit that triggered the run
