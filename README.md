@@ -49,9 +49,5 @@
 </div>
 
 <div align="center">
-  <img src="./assets/img/snake.svg">
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4e9e3f&width=300&section=footer">
 </div>
